@@ -70,12 +70,6 @@ int main()
     else if (a = 'V') {
         printf("very");
     }
-    else if (a = 'W') {
-        printf("what");
-    }
-    else if (a = 'X') {
-        printf("x-ray");
-    }
     else if (a = 'Y') {
         printf("you");
     }
